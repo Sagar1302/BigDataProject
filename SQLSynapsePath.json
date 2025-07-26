@@ -1,25 +1,25 @@
 [
   {
-    "relative_url": "https://olistdatastoragesagar.blob.core.windows.net/synapsesqlprocedure/SQL Shipped view.sql"
+    "relative_url": "https://olistdatastoragesagar.blob.core.windows.net/synapsesqlprocedure/SQLShippedview.sql"
   },
   {
-    "relative_url": "https://olistdatastoragesagar.blob.core.windows.net/synapsesqlprocedure/SQL Processing View.sql"
+    "relative_url": "https://olistdatastoragesagar.blob.core.windows.net/synapsesqlprocedure/SQLProcessingView.sql"
 
   },
   {
-    "relative_url": "https://olistdatastoragesagar.blob.core.windows.net/synapsesqlprocedure/SQL Invoiced view.sql"
+    "relative_url": "https://olistdatastoragesagar.blob.core.windows.net/synapsesqlprocedure/SQLInvoicedview.sql"
 
   },
   {
-    "relative_url": "https://olistdatastoragesagar.blob.core.windows.net/synapsesqlprocedure/SQL Delivered View.sql"
+    "relative_url": "https://olistdatastoragesagar.blob.core.windows.net/synapsesqlprocedure/SQLDeliveredView.sql"
 
   },
   {
-    "relative_url": "https://olistdatastoragesagar.blob.core.windows.net/synapsesqlprocedure/SQL Canceled View.sql"
+    "relative_url": "https://olistdatastoragesagar.blob.core.windows.net/synapsesqlprocedure/SQLCanceledView.sql"
 
   },
   {
-    "relative_url": "https://olistdatastoragesagar.blob.core.windows.net/synapsesqlprocedure/SQL Create Gold.sql"
+    "relative_url": "https://olistdatastoragesagar.blob.core.windows.net/synapsesqlprocedure/SQLCreateGold.sql"
 
   }
 ]
