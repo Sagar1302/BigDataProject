@@ -1,0 +1,48 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "Olist-data-Sagar"
+		},
+		"ADFToADLSLinkedService_accountKey": {
+			"value": ""
+		},
+		"AzureDatabricksOlist_accessToken": {
+			"value": ""
+		},
+		"SQLDBToADFLinkedService_password": {
+			"value": ""
+		},
+		"ADFToADLSLinkedService_properties_typeProperties_url": {
+			"value": "https://olistdatastoragesagar.dfs.core.windows.net/"
+		},
+		"AzureDatabricksOlist_properties_typeProperties_existingClusterId": {
+			"value": "0724-122818-ikr889zv"
+		},
+		"AzureSynapseAnalyticsbyPool_properties_typeProperties_server": {
+			"value": "synapse-workspace-sagar.sql.azuresynapse.net"
+		},
+		"AzureSynapseAnalyticsbyPool_properties_typeProperties_database": {
+			"value": "olistsynapsepool"
+		},
+		"GitHubToADFLinkedService_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/Sagar1302/"
+		},
+		"HttpServerForSQLSynapse_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/Sagar1302/BigDataProject/refs/heads/main/SQLSynapsePath.json"
+		},
+		"RelativeURLFromGitHubToADFLinkedService_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/Sagar1302/BigDataProject/refs/heads/main/data.json"
+		},
+		"SQLDBToADFLinkedService_properties_typeProperties_server": {
+			"value": "ncqlax.h.filess.io"
+		},
+		"SQLDBToADFLinkedService_properties_typeProperties_database": {
+			"value": "OlistDatabase_movieblock"
+		},
+		"SQLDBToADFLinkedService_properties_typeProperties_username": {
+			"value": "OlistDatabase_movieblock"
+		}
+	}
+}
